@@ -106,7 +106,7 @@ li a.active, li a:hover{
 .jumbotron{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background: url(../img/fondojumbotron.png) center;
+    background: url(../img/jumbotron.png) center;
     background-size: cover;
     height: 100vh;
 }
